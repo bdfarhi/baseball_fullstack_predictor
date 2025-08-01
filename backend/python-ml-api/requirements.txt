@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+pandas
+requests
+beautifulsoup4
+lxml
+html5lib
+# pybaseball
+joblib
+selenium
